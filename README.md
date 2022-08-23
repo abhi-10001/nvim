@@ -6,7 +6,7 @@ Home page
 Find files
 ![Find Files](https://github.com/abhi-10001/nvim/blob/main/Neovimss/Screenshot%20from%202022-08-23%2011-34-52.png)
 
-Direnctory
+Directory
 ![Directory](https://github.com/abhi-10001/nvim/blob/main/Neovimss/Screenshot%20from%202022-08-23%2011-35-19.png)
 
 Terminal within Neovim
