@@ -32,8 +32,4 @@ To make things working you have to run packer command.
 3. go to normal mode and press colon ":" and type "PackerSync" then hit enter(It will download all the plugins).
 4. Just restart your nvim and the changes will reflect.
 
-<<<<<<< HEAD
-******Clone this repository in your .config directory******
-![This is an image](https://github.com/abhi-10001/nvim/blob/main/Neovimss/Screenshot%20from%202022-08-23%2011-34-41.png)
-=======
->>>>>>> README edited
+
