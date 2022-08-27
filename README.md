@@ -28,7 +28,8 @@ At this stage you don't see much like the Screenshots.
 To make things working you have to run packer command.
 1. go to .config/nvim/
 2. open init.lua file with nvim
-3. go to normal mode and press colon ":" and type "PackerSync" then hit enter(It will download all the plugins).
-4. Just restart your nvim and the changes will reflect.
+3. Press colon ":" and type "PackerInstall" and 'enter' to install Package Manager.
+4. go to normal mode and press colon ":" and type "PackerSync" then hit enter(It will download all the plugins).
+5. Just restart your nvim and the changes will reflect.
 
 

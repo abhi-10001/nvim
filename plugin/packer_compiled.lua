@@ -94,6 +94,11 @@ _G.packer_plugins = {
     path = "/home/abhinendra/.local/share/nvim/site/pack/packer/start/dashboard-nvim",
     url = "https://github.com/glepnir/dashboard-nvim"
   },
+  ["flutter-tools.nvim"] = {
+    loaded = true,
+    path = "/home/abhinendra/.local/share/nvim/site/pack/packer/start/flutter-tools.nvim",
+    url = "https://github.com/akinsho/flutter-tools.nvim"
+  },
   ["format.nvim"] = {
     loaded = true,
     path = "/home/abhinendra/.local/share/nvim/site/pack/packer/start/format.nvim",
